@@ -1,0 +1,14 @@
+D:\source\APISALONXPERT\DB\bin\Debug\net6.0\DB.deps.json
+D:\source\APISALONXPERT\DB\bin\Debug\net6.0\DB.runtimeconfig.json
+D:\source\APISALONXPERT\DB\bin\Debug\net6.0\DB.dll
+D:\source\APISALONXPERT\DB\bin\Debug\net6.0\DB.pdb
+D:\source\APISALONXPERT\DB\obj\Debug\net6.0\DB.csproj.AssemblyReference.cache
+D:\source\APISALONXPERT\DB\obj\Debug\net6.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\APISALONXPERT\DB\obj\Debug\net6.0\DB.AssemblyInfoInputs.cache
+D:\source\APISALONXPERT\DB\obj\Debug\net6.0\DB.AssemblyInfo.cs
+D:\source\APISALONXPERT\DB\obj\Debug\net6.0\DB.csproj.CoreCompileInputs.cache
+D:\source\APISALONXPERT\DB\obj\Debug\net6.0\DB.dll
+D:\source\APISALONXPERT\DB\obj\Debug\net6.0\refint\DB.dll
+D:\source\APISALONXPERT\DB\obj\Debug\net6.0\DB.pdb
+D:\source\APISALONXPERT\DB\obj\Debug\net6.0\DB.genruntimeconfig.cache
+D:\source\APISALONXPERT\DB\obj\Debug\net6.0\ref\DB.dll
